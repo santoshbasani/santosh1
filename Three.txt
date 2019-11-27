@@ -1,3 +1,4 @@
 created third file
 added new line in third file
 added another line in third file
+added third line in three.txt
